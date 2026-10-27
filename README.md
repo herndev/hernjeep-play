@@ -6,7 +6,7 @@
 
 **Sakay na!** Grab the wheel of a chrome-plated, horse-topped, hand-painted jeepney and own the streets of Manila, straight from your browser. No download. No install. Just pure *biyahe*.
 
-### [▶ Play now at hernjeep.vercel.app](https://hernjeep.vercel.app)
+### [Play now at hernjeep.vercel.app](https://hernjeep.vercel.app)
 
 <img src="https://img.shields.io/badge/CODE-BY_HERNDEV-2ea44f?style=for-the-badge&logo=github" alt="HERNDEV">
 <a href="https://hernjeep.vercel.app"><img src="https://img.shields.io/badge/PLAY_NOW-HERNJEEP.VERCEL.APP-f5c518?style=for-the-badge&logo=vercel&logoColor=black" alt="Play now"></a>
@@ -22,7 +22,7 @@
 
 <video src="assets/trailer.mp4" poster="assets/hero.jpg" controls width="100%"></video>
 
-<sub>Video not playing? <a href="assets/trailer.mp4"><b>▶ Click here to watch the trailer</b></a></sub>
+<sub>Video not playing? <a href="assets/trailer.mp4"><b>Click here to watch the trailer</b></a></sub>
 
 </div>
 
@@ -101,33 +101,7 @@
 
 **Prefer the mouse?** Use the dashboard at the bottom of the screen: turn the ignition key, flick switches, honk, drag the H-pattern shifter, and pull the handbrake.
 
-**On mobile?** Turn your phone sideways for the full ride, then use the touch steering wheel and pedals (or switch on tilt steering in Settings).
-
 **10 camera views:** Chase, Far Chase, Driver Seat, Passenger, Hood, Bumper, Side, Top Down, Cinematic and Rear View. Drag to look around.
-
----
-
-## Run It Locally
-
-Just want to play? Head to **[hernjeep.vercel.app](https://hernjeep.vercel.app)**. Want to tinker with the code? Clone it and run it yourself.
-
-Requires **Node.js 20.19+** and a browser with WebGL2 (recent Chrome, Edge, Firefox or Safari).
-
-```bash
-git clone https://github.com/herndev/hernjeep.git
-cd hernjeep
-npm install
-npm run dev
-```
-
-Then open **http://localhost:5173** and click anywhere to start the engine (browsers need a click before they play audio).
-
-| Command | What it does |
-|---|---|
-| `npm run dev` | Start the dev server |
-| `npm run build` | Type-check and build for production into `dist/` |
-| `npm run preview` | Serve the production build |
-| `npm run test:physics` | Run the headless vehicle physics check |
 
 ---
 
@@ -140,17 +114,6 @@ Then open **http://localhost:5173** and click anywhere to start the engine (brow
 ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-procedural-purple?style=flat-square)
 
 Every model, texture, livery and sound is **generated in code**. No asset packs, no audio files. Just pure code-built Manila.
-
----
-
-## Contributing
-
-Got an idea for a new route, landmark or horn sound? Pull requests are welcome! Open an issue first for big changes so we can talk it through.
-
-1. Fork the repo
-2. Create your branch (`git checkout -b feature/new-route`)
-3. Commit your changes
-4. Push and open a Pull Request
 
 ---
 
